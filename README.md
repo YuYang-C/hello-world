@@ -39,7 +39,7 @@ Explicit is better than implicit.
 
 Simple is better than complex.
 
-**简洁好于复杂（Python的每一行代码应当是简洁的，一行代码只为一个子功能）*
+**简洁好于复杂（Python的每一行代码应当是简洁的，一行代码只为一个子功能）**
 
 
 Complex is better than complicated.
